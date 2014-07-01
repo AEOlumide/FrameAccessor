@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>FrameAccessor-OSX.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>FrameAccessor.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>FrameAccessorOSX.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>73C8F43F1958F4460064F5B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>73C8F4511958F4460064F5B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>73C8F4651958F4CD0064F5B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>73C8F4761958F4CE0064F5B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>73C8F4901958F6270064F5B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>73C8F4A11958F6270064F5B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
