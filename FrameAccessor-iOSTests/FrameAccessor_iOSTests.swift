@@ -1,14 +1,14 @@
 //
-//  FrameAccessorOSXTests.swift
-//  FrameAccessorOSXTests
+//  FrameAccessor_iOSTests.swift
+//  FrameAccessor-iOSTests
 //
-//  Created by Adedayo Olumide on 6/23/14.
+//  Created by Adedayo Olumide on 7/1/14.
 //  Copyright (c) 2014 Adedayo Olumide. All rights reserved.
 //
 
 import XCTest
 
-class FrameAccessorOSXTests: XCTestCase {
+class FrameAccessor_iOSTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

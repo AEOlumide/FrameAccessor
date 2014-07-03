@@ -15,10 +15,10 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     
     func applicationDidFinishLaunching(aNotification: NSNotification?) {
         self.window.contentView.addSubview(view)
-        view.setViewSize(CGSizeMake(200.0, 200.0));
+        view.setViewSize(CGSizeMake(200.0, 200.0))
         
         var windowContentView: NSView = self.window.contentView as NSView;
-        view.setCenter(windowContentView.center());
+        view.setCenter(windowContentView.center())
     }
 
     func applicationWillTerminate(aNotification: NSNotification?) {

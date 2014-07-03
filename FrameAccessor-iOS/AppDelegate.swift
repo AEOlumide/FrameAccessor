@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  FrameAccessor
+//  FrameAccessor-iOS
 //
-//  Created by Adedayo Olumide on 6/23/14.
+//  Created by Adedayo Olumide on 7/1/14.
 //  Copyright (c) 2014 Adedayo Olumide. All rights reserved.
 //
 
